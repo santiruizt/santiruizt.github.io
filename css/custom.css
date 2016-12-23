@@ -1,0 +1,9 @@
+#main {
+  height:500px;
+  background-color:red;
+}
+
+#below-main {
+  height:1000px;
+  background-color:#eee;
+}

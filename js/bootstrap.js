@@ -136,6 +136,7 @@ if (typeof jQuery === 'undefined') {
   }
 
 
+
   // ALERT PLUGIN DEFINITION
   // =======================
 
