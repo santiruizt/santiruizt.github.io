@@ -4502,8 +4502,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color:#ccc;
 }
 .navbar-default.past-main {
-  background-color: #fff;
-  color:#444;
+  background-color: #8c8c8c;
+  color:#ffffff;
 }
 #main {
 
@@ -5810,6 +5810,7 @@ button.list-group-item-danger.active:focus {
   position: relative;
   display: block;
   height: 0;
+
   padding: 0;
   overflow: hidden;
 }
