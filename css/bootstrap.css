@@ -1124,6 +1124,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+.tech{
+  border-radius: 5%;
+  width: 10vw;
+
+}
 .img-rounded {
   border-radius: 6px;
 }
@@ -6527,6 +6532,10 @@ button.close {
 .modal-header:after,
 .modal-footer:after {
   clear: both;
+}
+.container-technologies{
+  color: #fff;
+  text-align: center;
 }
 .center-block {
   display: block;
