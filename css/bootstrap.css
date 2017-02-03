@@ -1228,7 +1228,7 @@ h2,
 h3,
 .h3 {
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 2  0px;
 }
 h1 small,
 .h1 small,
@@ -3075,6 +3075,17 @@ fieldset[disabled] a.btn {
 .btn-default:hover {
   color: #333;
   background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.btn-cv{
+  color: #262626;
+  background-color: #fff;
+  border-color: #8c8c8c;
+  margin: 5%;
+}
+.btn-cv:hover{
+  color: #333;
+  background-color: #d9d9d9;
   border-color: #adadad;
 }
 .btn-default:active,
@@ -6535,6 +6546,13 @@ button.close {
 }
 .container-technologies{
   color: #fff;
+  text-align: center;
+}
+.container-technologies h3{
+
+}
+.container-cv{
+  color: #000000;
   text-align: center;
 }
 .center-block {
