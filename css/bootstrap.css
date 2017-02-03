@@ -6549,11 +6549,14 @@ button.close {
   text-align: center;
 }
 .container-technologies h3{
-
+  font-size: 2em;
 }
 .container-cv{
   color: #000000;
   text-align: center;
+}
+.container h2{
+  font-size: 3em;
 }
 .center-block {
   display: block;
