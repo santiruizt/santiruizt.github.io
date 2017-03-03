@@ -51,6 +51,10 @@ h6 {
     font-size: 5em;
 }
 
+.intro-text {
+    font-size: 22px;
+}
+
 .intro-divider {
     width: 400px;
     border-top: 1px solid #f8f8f8;
